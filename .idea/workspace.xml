@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b2b2e10-917b-4f9c-80c6-34f3854f9f66" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJavaPractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComplexDigitFabrick/Digits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComplexDigitFabrick/digitType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GenericStack/CarView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GenericStack/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GenericStack/autoZavod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashMapUN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MiddleOfLinkedListProblem/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MiddleOfLinkedListProblem/MiddleOfTheLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polindrome/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polindrome/PolindromeLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RansomNote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RomanToInteger.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KBY0KCag9RHFknw807RJNM4HiN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b2b2e10-917b-4f9c-80c6-34f3854f9f66" name="Changes" comment="" />
+      <created>1673449220474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673449220474</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
