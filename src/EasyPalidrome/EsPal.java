@@ -1,4 +1,6 @@
-public class Main extends Solution {
+package EasyPalidrome;
+
+public class EsPal extends Solution {
     public static void main(String[] args) {
         System.out.println(isPalindrome(121));
     }
